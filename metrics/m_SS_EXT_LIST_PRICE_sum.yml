@@ -1,0 +1,6 @@
+unique_name: m_SS_EXT_LIST_PRICE_sum
+object_type: metric
+label: Ss Ext List Price
+calculation_method: sum
+dataset: store_sales
+column: SS_EXT_LIST_PRICE

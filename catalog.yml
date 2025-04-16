@@ -1,0 +1,6 @@
+unique_name: TPC-DS-Benchmark-Model-SF
+object_type: catalog
+label: TPC-DS Benchmark Model - SF
+aggressive_agg_promotion: false
+version: 1
+build_speculative_aggs: false

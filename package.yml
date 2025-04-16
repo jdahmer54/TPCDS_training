@@ -1,0 +1,8 @@
+version: 1
+packages:
+  - version: commit:046dcc81aa87e434592babfe3636a7b527f2e06d
+    name: global_shared
+    url: https://github.com/AodanMatthews/global_shared.git
+    branch: main
+
+
